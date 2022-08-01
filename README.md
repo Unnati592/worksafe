@@ -1,4 +1,4 @@
-# worksafe
+# SQL on AZure
 <h2>
-Azure Synapse workspace sample demos 
+Hands-on Azure Synapse workspace
 </h2)
